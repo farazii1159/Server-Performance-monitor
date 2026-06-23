@@ -131,8 +131,7 @@ Run the script:
 ---
 Example Output:
 
-![Output Image](images/output.jpg)
-
+![Server Output](./images/output.jpg)
 ```text
 ==========================================
       SERVER PERFORMANCE STATS
