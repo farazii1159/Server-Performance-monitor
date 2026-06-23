@@ -103,13 +103,13 @@ Before running this project, ensure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/farazii1159/server-performance-monitor.git
+git clone https://github.com/farazii1159/Server-Performance-monitor.git
 ```
 
 Move into project directory:
 
 ```bash
-cd server-performance-monitor
+cd Server-Performance-monitor
 ```
 
 Make script executable:
@@ -151,7 +151,7 @@ This schedules the script to execute automatically every hour.
 # 📁 Project Structure
 
 ```text
-server-performance-monitor/
+Server-Performance-monitor/
 │
 ├── server-stats.sh
 ├── README.md
