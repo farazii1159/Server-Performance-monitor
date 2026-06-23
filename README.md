@@ -172,7 +172,8 @@ Server-Performance-monitor/
 │
 ├── server-stats.sh
 ├── README.md
-└── server-stats.log
+└── images/
+    └── output.jpg
 ```
 ---
 `server-stats.log` is a generated file, not part of the source code.
