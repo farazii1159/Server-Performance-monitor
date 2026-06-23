@@ -131,7 +131,7 @@ Run the script:
 ---
 Example Output:
 
-![Output Image](images/output.JPG)
+![Output Image](images/output.jpg)
 
 ```text
 ==========================================
