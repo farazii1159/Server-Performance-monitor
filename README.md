@@ -129,6 +129,28 @@ Run the script:
 ```
 
 ---
+Example Output:
+
+```text
+==========================================
+      SERVER PERFORMANCE STATS
+==========================================
+
+Total CPU Usage: 12.5%
+
+Memory Usage: 1500 MB used / 500 MB free (75%)
+
+Disk Usage: 20G / 50G (40%)
+
+Top 5 Processes by CPU Usage:
+PID   PPID  CMD                %MEM  %CPU
+
+Top 5 Processes by Memory Usage:
+PID   PPID  CMD                %MEM  %CPU
+```
+
+---
+
 
 # ⏰ Automation with Cron
 
@@ -145,6 +167,16 @@ Add:
 ```
 
 This schedules the script to execute automatically every hour.
+
+---
+### 📄 Viewing Logs
+
+To view the generated log file:
+
+```bash
+cat /var/log/server-stats.log
+```
+
 
 ---
 
