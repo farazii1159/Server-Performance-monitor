@@ -131,8 +131,7 @@ Run the script:
 
 ---
 
-![Server Output](./image/output.jpg)
-
+![Output Image](./images/output.jpg)
 ---
 
 Example Output:
