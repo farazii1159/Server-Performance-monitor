@@ -162,7 +162,6 @@ To view the generated log file afet every hour:
 cat /home/ubuntu/Server-Performance-monitor/server-stats.log
 ```
 
-
 ---
 
 # 📁 Project Structure
