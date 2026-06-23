@@ -171,7 +171,7 @@ This schedules the script to execute automatically every hour.
 ---
 ### 📄 Viewing Logs
 
-To view the generated log file:
+To view the generated log file afet every hour:
 
 ```bash
 cat /home/ubuntu/Server-Performance-monitor/server-stats.log
