@@ -245,6 +245,9 @@ Since I initially developed the project on Windows using Git Bash, Linux-specifi
 
 The project can be enhanced by adding alerting mechanisms, centralized logging, Docker support, and integration with monitoring tools like Prometheus and Grafana.
 
+### Why is the log file not included in the repository?
+
+The log file is generated dynamically at runtime by the cron job. Since log files are environment-specific and continuously changing, they are excluded from version control using `.gitignore.`
 ---
 
 ## 👨‍💻 Author
