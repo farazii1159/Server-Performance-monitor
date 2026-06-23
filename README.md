@@ -174,7 +174,7 @@ This schedules the script to execute automatically every hour.
 To view the generated log file:
 
 ```bash
-cat /var/log/server-stats.log
+cat /Server-Performance-monitor/server-stats.log
 ```
 
 
