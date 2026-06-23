@@ -128,32 +128,11 @@ Run the script:
 ./server-stats.sh
 ```
 
-
----
-
-![Output Image](./images/output.jpg)
 ---
 
 Example Output:
 
-
-```text
-==========================================
-      SERVER PERFORMANCE STATS
-==========================================
-
-Total CPU Usage: 12.5%
-
-Memory Usage: 1500 MB used / 500 MB free (75%)
-
-Disk Usage: 20G / 50G (40%)
-
-Top 5 Processes by CPU Usage:
-PID   PPID  CMD                %MEM  %CPU
-
-Top 5 Processes by Memory Usage:
-PID   PPID  CMD                %MEM  %CPU
-```
+![Output Image](./images/output.jpg)
 
 ---
 
