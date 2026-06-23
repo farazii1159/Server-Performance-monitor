@@ -217,7 +217,7 @@ The project can be enhanced by adding alerting mechanisms, centralized logging, 
 
 Aspiring DevOps Engineer | Linux Enthusiast | Bash Scripting Learner | Cloud Engineer
 
-LinkedIn: https://www.linkedin.com/in/faraz-shabbir/
+LinkedIn: https://www.linkedin.com/in/faraz-shabbir-5a9227344/
 
 ---
 
