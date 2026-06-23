@@ -155,7 +155,7 @@ Server-Performance-monitor/
 │
 ├── server-stats.sh
 ├── README.md
-└── .gitignore
+└── server-stats.log
 ```
 
 ---
