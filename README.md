@@ -160,7 +160,7 @@ Open crontab:
 crontab -e
 ```
 
-Add:
+Add in last line:
 
 ```bash
 0 * * * * /path/to/server-stats.sh >> /var/log/server-stats.log 2>&1
@@ -189,6 +189,10 @@ Server-Performance-monitor/
 ├── README.md
 └── server-stats.log
 ```
+---
+`server-stats.log` is a generated file, not part of the source code.
+It is automatically created when the cron job runs.
+Log files are usually not stored in Git repositories because they are environment-specific and change frequently.
 
 ---
 
