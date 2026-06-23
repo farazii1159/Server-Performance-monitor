@@ -1,0 +1,1088 @@
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 310 MB used / 235 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 56.5%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     2.7 80.0
+  10086       1 /usr/bin/fwupdmgr refresh    1.7 22.2
+   7476       2 [kworker/0:1-rcu_gp]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+  10100       1 /usr/libexec/fwupd/fwupd     2.7 81.2
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 313 MB used / 231 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.5
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.5
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 313 MB used / 231 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.2
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.2
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 313 MB used / 231 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 313 MB used / 231 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 313 MB used / 231 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10100       1 /usr/libexec/fwupd/fwupd     4.6  0.1
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 309 MB used / 234 MB free (34.03%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 26.1%
+Memory Usage: 309 MB used / 234 MB free (34.03%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10303   10301 /bin/bash /home/ubuntu/Serv  0.3  3.1
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 309 MB used / 234 MB free (34.03%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+   7926    7925 -bash                        0.6  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.5%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-mm_percpu_wq]   0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 234 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 10%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  10706   10687 ps -eo pid,ppid,cmd,%mem,%c  0.4  100
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-mm_percpu_wq]   0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.3  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.3  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.3  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.3  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 311 MB used / 233 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.3  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 8.7%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.5%
+Memory Usage: 310 MB used / 233 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 310 MB used / 232 MB free (34.14%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  11006     580 /usr/sbin/CRON -f -P         0.4 11.4
+  11009   11008 /bin/bash /home/ubuntu/Serv  0.3  7.1
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 0%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7925    7505 sshd-session: ubuntu@pts/0   0.8  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 21.7%
+Memory Usage: 311 MB used / 232 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+  11120     580 /usr/sbin/CRON -f -P         0.4  3.5
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 313 MB used / 230 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 313 MB used / 230 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.5%
+Memory Usage: 313 MB used / 230 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-mm_percpu_wq]   0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 313 MB used / 230 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.8%
+Memory Usage: 313 MB used / 230 MB free (34.47%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
+==========================================
+      SERVER PERFORMANCE STATS            
+==========================================
+Total CPU Usage: 4.5%
+Memory Usage: 311 MB used / 224 MB free (34.25%)
+Disk Usage: 2.8G / 6.7G (43%)
+
+Top 5 Processes by CPU Usage:
+    PID    PPID CMD                         %MEM %CPU
+   7476       2 [kworker/0:1-events]         0.0  0.0
+      1       0 /sbin/init                   1.6  0.0
+   9372       2 [kworker/1:1-events]         0.0  0.0
+    178       1 /usr/sbin/multipathd -d -s   1.0  0.0
+   7926    7925 -bash                        0.6  0.0
+
+Top 5 Processes by Memory Usage:
+    PID    PPID CMD                         %MEM %CPU
+    605       1 /usr/lib/snapd/snapd         4.2  0.0
+    734       1 /usr/bin/python3 /usr/share  3.4  0.0
+    594       1 /usr/bin/python3 /usr/bin/n  3.1  0.0
+    991       1 /snap/amazon-ssm-agent/1300  2.2  0.0
+    129       1 /usr/lib/systemd/systemd-jo  1.7  0.0
+
+==========================================
