@@ -128,10 +128,16 @@ Run the script:
 ./server-stats.sh
 ```
 
+
 ---
-Example Output:
 
 ![Server Output](./image/output.jpg)
+
+---
+
+Example Output:
+
+
 ```text
 ==========================================
       SERVER PERFORMANCE STATS
