@@ -131,6 +131,8 @@ Run the script:
 ---
 Example Output:
 
+![Output Image](images/output.JPG)
+
 ```text
 ==========================================
       SERVER PERFORMANCE STATS
@@ -259,13 +261,5 @@ The log file is generated dynamically at runtime by the cron job. Since log file
 Aspiring DevOps Engineer | Linux Enthusiast | Bash Scripting Learner | Cloud Engineer
 
 LinkedIn: https://www.linkedin.com/in/faraz-shabbir-5a9227344/
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Feel free to fork this repository and improve it.
 
 ---
