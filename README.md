@@ -248,6 +248,8 @@ The project can be enhanced by adding alerting mechanisms, centralized logging, 
 ### Why is the log file not included in the repository?
 
 The log file is generated dynamically at runtime by the cron job. Since log files are environment-specific and continuously changing, they are excluded from version control using `.gitignore.`
+
+
 ---
 
 ## 👨‍💻 Author
